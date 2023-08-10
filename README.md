@@ -1,6 +1,7 @@
 # yt-sub-translator
 Created by Kevin Liu
 
+
 ## Objective
 - Be able to fetch YouTube video transcripts
 - Be able to upload transcript files for cleaning
